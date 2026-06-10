@@ -9,7 +9,7 @@ function App() {
   
      <>
 
-    <UserCard name="Ajit Yadav" image={ajit} description="Software Engineer"/>
+    <UserCard name="Ajit Yadav" image={ajit} description="Software Engineer" style={{"border-radius": "10px"}}/>
 
      </>
   )

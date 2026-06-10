@@ -7,10 +7,11 @@
 
 body{
   background-color: #585151;
-  color: #fff;
+  color: #536252;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  /* font-size: 5rem; */
+  margin:20px auto 0;
 }
+
