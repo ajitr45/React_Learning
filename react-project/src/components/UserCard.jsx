@@ -1,6 +1,7 @@
 import './UserCard.css'
 
 const UserCard = (props) => {
+  
   return (
     <div className="user-container">
       <p id="user-name">{props.name}</p>
